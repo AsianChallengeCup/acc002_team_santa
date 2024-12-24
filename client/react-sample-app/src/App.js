@@ -7,9 +7,9 @@ import TreeDetailPage from "./components/TreeDetailPage"; // TreeDetailPageの�
 
 // 木のデータ
 const trees = [
-  { id: 1, name: "Pine Tree", image: "/tree1.png", link: "/pine-tree" },
-  { id: 2, name: "Oak Tree", image: "/tree2.png", link: "/oak-tree" },
-  { id: 3, name: "Maple Tree", image: "/tree3.png", link: "/maple-tree" },
+  { id: 1, name: "Pine Tree", image: "/first_tree1.png", link: "/pine-tree" },
+  { id: 2, name: "Oak Tree", image: "/first_tree2.png", link: "/oak-tree" },
+  { id: 3, name: "Maple Tree", image: "/first_tree3.png", link: "/maple-tree" },
 ];
 
 const App = () => {

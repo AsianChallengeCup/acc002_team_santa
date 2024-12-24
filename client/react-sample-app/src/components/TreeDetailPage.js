@@ -9,9 +9,9 @@ const TreeDetailPage = ({ tree }) => {
 
   // 木の画像リスト
   const treeImages = [
-    "/tree1.png", // 初期画像
-    "/change1.png", // 5回目
-    "/change2.png", // 10回目
+    "/nomal_tree1.png", // 初期画像
+    "/change_tree1.png", // 5回目
+    "/change_tree2.png", // 10回目
   ];
 
   // 背景装飾リスト

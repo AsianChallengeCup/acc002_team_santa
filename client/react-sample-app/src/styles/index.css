@@ -1,0 +1,45 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* ここにカスタムCSSを書きます */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+  }
+  
+  h1, h2 {
+    color: #333;
+  }
+  
+  .home-page {
+    text-align: center;
+  }
+  
+  .category-selection {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .category-button {
+    margin: 10px;
+    padding: 10px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .idol-list {
+    margin-top: 20px;
+    padding: 20px;
+    background-color: #fff;
+  }
+  
+  .christmas-tree {
+    margin-top: 20px;
+    text-align: center;
+  }
+  

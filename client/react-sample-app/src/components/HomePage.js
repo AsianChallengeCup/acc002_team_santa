@@ -9,7 +9,7 @@ const HomePage = () => {
         backgroundImage: "url('/yuki.jpg')", // 雪の画像へのパスを指定
       }}
     >
-      <h1 className="text-6xl font-bold text-white mb-8">holoX</h1>
+      <h1 className="text-6xl font-bold text-white mb-8">Vtree</h1>
       <Link
         to="/categories" // 遷移先のルート（例: /categories）
         className="text-2xl font-semibold text-white underline hover:text-gray-200 transition-colors"

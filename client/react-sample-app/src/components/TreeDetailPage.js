@@ -9,7 +9,7 @@ const TreeDetailPage = ({ tree }) => {
 
   // 木の画像リスト
   const treeImages = [
-    "/nomal_tree1.png", // 初期画像
+    "/first_tree1.png", // 初期画像
     "/change_tree1.png", // 5回目
     "/change_tree2.png", // 10回目
   ];

@@ -6,21 +6,21 @@ const DashboardPage = () => {
     {
       id: 1,
       name: "Pine Tree",
-      image: "/tree1.png",
+      image: "/first_tree1.png",
       description: "A tall evergreen tree known for its needles and cones.",
       link: "/pine-tree", // Yesボタンで飛ぶリンク先
     },
     {
       id: 2,
       name: "Oak Tree",
-      image: "/tree2.png",
+      image: "/first_tree2.png",
       description: "A sturdy deciduous tree that is a symbol of strength and endurance.",
       link: "/oak-tree", // Yesボタンで飛ぶリンク先
     },
     {
       id: 3,
       name: "Maple Tree",
-      image: "/tree3.png",
+      image: "/first_tree3.png",
       description: "A tree known for its beautiful fall foliage and sweet sap for syrup.",
       link: "/maple-tree", // Yesボタンで飛ぶリンク先
     },
